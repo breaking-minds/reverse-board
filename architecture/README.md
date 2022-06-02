@@ -1,3 +1,11 @@
+## [Game instances](./game-instances-architecture)
+
+<br />
+
+<img src="./game-instances-architecture/game-instances-architecture-dark.png#gh-dark-mode-only" />
+<img src="./game-instances-architecture/game-instances-architecture-light.png#gh-light-mode-only" />
+
+***
 
 ## [Client communication](./client-communication)
 
@@ -5,15 +13,6 @@
 
 <img src="./client-communication/client-communication-dark.png#gh-dark-mode-only">
 <img src="./client-communication/client-communication-light.png#gh-light-mode-only" />
-
-***
-
-## [Game instances](./game-instances-architecture)
-
-<br />
-
-<img src="./game-instances-architecture/game-instances-architecture-dark.png#gh-dark-mode-only" />
-<img src="./game-instances-architecture/game-instances-architecture-light.png#gh-light-mode-only" />
 
 ***
 
