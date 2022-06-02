@@ -3,11 +3,9 @@
 
 <br />
 
-<a href="./client-communication">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./client-communication/client-communication-dark.png">
-    <img alt="Client communication scheme" src="./client-communication/client-communication-light.png">
-    </picture>
+<a href="./client-communication">    
+    <img src="./client-communication/client-communication-dark.png#gh-dark-mode-only">
+    <img alt="Client communication scheme" src="./client-communication/client-communication-light.png#gh-light-mode-only" />
 </a>
 
 ***
@@ -17,10 +15,8 @@
 <br />
 
 <a href="./game-instances-architecture">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./game-instances-architecture/game-instances-architecture-dark.png">
-    <img alt="Game instances architecture scheme" src="./game-instances-architecture/game-instances-architecture-light.png">
-    </picture>
+    <img src="./game-instances-architecture/game-instances-architecture-dark.png#gh-dark-mode-only" />
+    <img alt="Game instances architecture scheme" src="./game-instances-architecture/game-instances-architecture-light.png#gh-light-mode-only" />
 </a>
 
 ***
@@ -30,10 +26,8 @@
 <br />
 
 <a href="./remote-wallet-authentication">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./remote-wallet-authentication/remote-wallet-authentication-dark.png">
-    <img alt="Remote wallet authentication scheme" src="./remote-wallet-authentication/remote-wallet-authentication-light.png">
-    </picture>
+    <img src="./remote-wallet-authentication/remote-wallet-authentication-dark.png#gh-dark-mode-only" />
+    <img alt="Remote wallet authentication scheme" src="./remote-wallet-authentication/remote-wallet-authentication-light.png#gh-light-mode-only" />
 </a>
 
 ***
@@ -42,9 +36,7 @@
 
 <br />
 
-<a href="./initial-connection-saga">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./initial-connection-saga/initial-connection-saga-dark.png">
-    <img alt="Initial connection saga scheme" src="./initial-connection-saga/initial-connection-saga-light.png">
-    </picture>
+<a href="./initial-connection-saga">    
+    <img src="./initial-connection-saga/initial-connection-saga-dark.png#gh-dark-mode-only">
+    <img alt="Initial connection saga scheme" src="./initial-connection-saga/initial-connection-saga-light.png#gh-light-mode-only" />
 </a>
