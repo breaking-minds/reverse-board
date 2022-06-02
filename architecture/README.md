@@ -3,6 +3,7 @@
 <br />
 
 [![](./game-instances-architecture/game-instances-architecture-dark.png#gh-dark-mode-only)](./game-instances-architecture)
+
 [![](./game-instances-architecture/game-instances-architecture-light.png#gh-light-mode-only)](./game-instances-architecture)
 
 ***
